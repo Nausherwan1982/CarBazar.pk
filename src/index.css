@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@theme { --color-navy:#0B1F3A; --color-teal:#00B8A9; --color-gold:#FFB020; --color-coral:#FF5A4E; }
+body { margin:0; background:#F5F7FA; color:#0B1F3A; font-family: system-ui, -apple-system, "Segoe UI", "Noto Nastaliq Urdu", sans-serif; }
+[dir="rtl"] { font-family: "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", serif; line-height:2; }
